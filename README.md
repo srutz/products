@@ -1,10 +1,7 @@
 # Project Title
 
-This project is a simple web application that fetches product data from a dummy JSON API and displays it in a user-friendly format. The product data includes a thumbnail image and product title. The project also includes a utility function for formatting currency values.
+This project is a simple web application that fetches product data from a dummy JSON API and displays it in a user-friendly format. The product data includes a thumbnail image and product title. The project also includes a utility function for formatting currency values. (WOW)
 
-## Intention of the project
-
-This project is for demonstration purposes only
 
 ## Code Snippet
 
